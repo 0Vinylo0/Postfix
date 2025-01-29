@@ -4,6 +4,8 @@ Bienvenido a esta guía detallada sobre la configuración y uso de Postfix, un a
 
 ## Contenido
 
+<img src="/img/pngegg.png" alt="GIF" width="200" height="175" align="right">
+
 - [`Introducción a SMTP y Postfix`](/doc/smtp_postfix_guide.md)
 - [`Instalación`](/doc/installation.md)
 - [`Configuración Básica`](/doc/basic_configuration.md)
