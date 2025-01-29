@@ -4,12 +4,12 @@ Bienvenido a esta guía detallada sobre la configuración y uso de Postfix, un a
 
 ## Contenido
 
-- [`Introducción a SMTP y Postfix`](smtp_postfix_guide.md)
-- [`Instalación`](installation.md)
-- [`Configuración Básica`](basic_configuration.md)
-- [`Configuración Avanzada`](advanced_configuration.md)
-- [`Seguridad`](security.md)
-- [`Solución de Problemas y Seguridad`](troubleshooting_security.md)
+- [`Introducción a SMTP y Postfix`](/doc/smtp_postfix_guide.md)
+- [`Instalación`](/doc/installation.md)
+- [`Configuración Básica`](/doc/basic_configuration.md)
+- [`Configuración Avanzada`](/doc/advanced_configuration.md)
+- [`Seguridad`](/doc/security.md)
+- [`Solución de Problemas y Seguridad`](/doc/troubleshooting_security.md)
 
 Cada sección proporciona detalles clave para comprender y optimizar el uso de Postfix.
 
